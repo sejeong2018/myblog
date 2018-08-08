@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sejeong 2018"
 theme = "whiteplain"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
